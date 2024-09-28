@@ -8,7 +8,7 @@ Especialista em Gestão e Qualidade em Tecnologia da Informação pelo Instituto
 
 
 ### 💡  Minhas Skills 
-* Git e GitHub
+
 * Arquitetura da Informação
 * Gestão da Informação e do Conhecimento
 * Estudos de Uso e Usuário da Informação
