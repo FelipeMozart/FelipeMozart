@@ -19,15 +19,15 @@ Especialista em Gestão e Qualidade em Tecnologia da Informação pelo Instituto
 
 **Oititec**
 
-Portal do Desenvolvedor
-Curadoria de wikis internas
-Gestão e organização da informação
-Comunicação Técnica de Marketing
+- Portal do Desenvolvedor
+- Curadoria de wikis internas
+- Gestão e organização da informação
+- Comunicação Técnica de Marketing
 
 **Kurier Tecnologia**
 
-Guias de Usuários 
-Notas de Versionamento
-Curadoria do Portal Academy
-Gestão e organização de informação
+- Guias de Usuários 
+- Notas de Versionamento
+- Curadoria do Portal Academy
+- Gestão e organização de informação
 
