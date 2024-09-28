@@ -7,7 +7,7 @@ Doutor e Mestre em Ciência da Informação e Gestor da Informação pela Univer
 Especialista em Gestão e Qualidade em Tecnologia da Informação pelo Instituto Federal de Educação, Ciência e Tecnologia.
 
 
-### Minhas Skills 
+### 💡  Minhas Skills 
 * Git e GitHub
 * Arquitetura da Informação
 * Gestão da Informação e do Conhecimento
@@ -15,7 +15,7 @@ Especialista em Gestão e Qualidade em Tecnologia da Informação pelo Instituto
 * Qualidade de Documentação Técnica
  
 
-### Experiências
+### 🚀 Experiências
 
 **Oititec**
 Portal do Desenvolvedor
